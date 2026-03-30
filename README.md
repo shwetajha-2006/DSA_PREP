@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
