@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
