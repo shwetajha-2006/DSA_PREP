@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0096-unique-binary-search-trees) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shwetajha-2006/DSA_PREP/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
